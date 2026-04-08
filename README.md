@@ -78,12 +78,6 @@ Important: Predictions are indicative only. Always consult a local agricultural 
 - Deploy as a cloud-based web service
 
 
-Author
-Mariam Bourchouk – Data Engineering student
-Institution: Department of Computer Engineering – Data Engineering Program
-Academic Year: 2025–2026
-
-
 ### Repository Files
 - `README.md`	: Project overview, objectives, features, and instructions
 - `data/raw/` : Original datasets (soil/climate and market data)
@@ -94,3 +88,8 @@ Academic Year: 2025–2026
 - `docs/`	: project report included)
 - `requirements.txt` : List of Python dependencies required to run the project
 - `.gitignore` : Specifies intentionally untracked files to ignore
+
+### Author
+`Mariam Bourchouk – Data Engineering student`
+`Institution:` Department of Computer Engineering – Data Engineering Program
+`Academic Year:` 2025–2026
