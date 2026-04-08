@@ -85,12 +85,12 @@ Academic Year: 2025–2026
 
 
 ### Repository Files
-- README.md	: Project overview, objectives, features, and instructions
-- data/raw/ : Original datasets (soil/climate and market data)
-- data/processed/	: Cleaned and merged final dataset for modeling
-- notebooks/ : Jupyter notebooks for EDA, feature engineering, and modeling
-- app/ : Streamlit application code
-- images/ : Screenshots of the application and visualizations
-- docs/	: project report included)
-- requirements.txt : List of Python dependencies required to run the project
-- .gitignore : Specifies intentionally untracked files to ignore
+- `README.md`	: Project overview, objectives, features, and instructions
+- `data/raw/` : Original datasets (soil/climate and market data)
+- `data/processed/`	: Cleaned and merged final dataset for modeling
+- `notebooks/` : Jupyter notebooks for EDA, feature engineering, and modeling
+- `app/` : Streamlit application code
+- `images/` : Screenshots of the application and visualizations
+- `docs/`	: project report included)
+- `requirements.txt` : List of Python dependencies required to run the project
+- `.gitignore` : Specifies intentionally untracked files to ignore
